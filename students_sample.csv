@@ -1,0 +1,6 @@
+FirstName,LastName,Email,Phone,Status
+Alice,Johnson,alice.johnson@example.com,555-0101,ACTIVE
+Bob,Smith,bob.smith@example.com,555-0102,ACTIVE
+Carla,Nguyen,carla.nguyen@example.com,555-0103,ACTIVE
+Daniel,Lee,daniel.lee@example.com,555-0104,ACTIVE
+Eve,Garcia,eve.garcia@example.com,555-0105,ACTIVE

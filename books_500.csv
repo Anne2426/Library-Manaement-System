@@ -1,0 +1,103 @@
+ISBN,Title,Author,Publisher,YearPublished,TotalCopies,AvailableCopies
+9780000001001,Sample Book Title 1,Paulo Coelho,HarperCollins,1993,3,3
+9780000001002,Sample Book Title 2,Khaled Hosseini,Penguin,2003,2,2
+9780000001003,Sample Book Title 3,Paulo Coelho,HarperOne,1993,1,1
+9780000001004,Sample Book Title 4,Andy Weir,Del Rey,2014,4,4
+9780000001005,Sample Book Title 5,Delia Owens,Putnam,2018,2,2
+9780000001006,Sample Book Title 6,J.K. Rowling,Bloomsbury,1997,5,5
+9780000001007,Sample Book Title 7,George Orwell,Secker & Warburg,1949,2,2
+9780000001008,Sample Book Title 8,Jane Austen,Thomas Egerton,1813,3,3
+9780000001009,Sample Book Title 9,Mark Twain,Chatto & Windus,1884,2,2
+9780000001010,Sample Book Title 10,Ernest Hemingway,Charles Scribner's Sons,1952,3,3
+9780000001011,Sample Book Title 11,Fyodor Dostoevsky,The Russian Messenger,1866,2,2
+9780000001012,Sample Book Title 12,Leo Tolstoy,The Russian Messenger,1877,2,2
+9780000001013,Sample Book Title 13,Harper Lee,J.B. Lippincott & Co.,1960,1,1
+9780000001014,Sample Book Title 14,Charlotte Bronte,Smith, Elder & Co.,1847,2,2
+9780000001015,Sample Book Title 15,Charles Dickens,Chapman & Hall,1859,3,3
+9780000001016,Sample Book Title 16,F. Scott Fitzgerald,Charles Scribner's Sons,1925,2,2
+9780000001017,Sample Book Title 17,George R. R. Martin,Bantam Books,1996,4,4
+9780000001018,Sample Book Title 18,Isabel Allende,Plaza & Janés,1987,2,2
+9780000001019,Sample Book Title 19,Cormac McCarthy,Alfred A. Knopf,2006,2,2
+9780000001020,Sample Book Title 20,Chimamanda Ngozi Adichie,Knopf,2003,3,3
+9780000001021,Sample Book Title 21,Bernard Shaw,Archibald Constable,1900,1,1
+9780000001022,Sample Book Title 22,Aldous Huxley,Chatto & Windus,1932,2,2
+9780000001023,Sample Book Title 23,J.D. Salinger,Little, Brown and Company,1951,2,2
+9780000001024,Sample Book Title 24,Virginia Woolf,Leonard & Virginia Woolf,1925,1,1
+9780000001025,Sample Book Title 25,James Joyce,Shakespeare and Company,1922,2,2
+9780000001026,Sample Book Title 26,Stephen King,Doubleday,1974,4,4
+9780000001027,Sample Book Title 27,Neil Gaiman,HarperCollins,1996,3,3
+9780000001028,Sample Book Title 28,George Eliot,William Blackwood,1871,1,1
+9780000001029,Sample Book Title 29,Joseph Conrad,Blackwood's Magazine,1897,2,2
+9780000001030,Sample Book Title 30,Arthur Conan Doyle,Beeton's Christmas Annual,1887,2,2
+9780000001031,Sample Book Title 31,Victor Hugo,A. Lacroix, 1852,2,2
+9780000001032,Sample Book Title 32,Emily Bronte,Thomas Cautley Newby,1847,1,1
+9780000001033,Sample Book Title 33,Ray Bradbury,Simon & Schuster,1953,3,3
+9780000001034,Sample Book Title 34,Kurt Vonnegut,Delacorte,1969,2,2
+9780000001035,Sample Book Title 35,John Steinbeck,Viking Press,1939,2,2
+9780000001036,Sample Book Title 36,Philip K. Dick,Rich & Cowan,1962,1,1
+9780000001037,Sample Book Title 37,Ann Patchett,HarperCollins,2001,2,2
+9780000001038,Sample Book Title 38,Don DeLillo,Scribner,1985,2,2
+9780000001039,Sample Book Title 39,Salman Rushdie,Jonathan Cape,1981,3,3
+9780000001040,Sample Book Title 40,Michael Crichton,Knopf,1990,4,4
+9780000001041,Sample Book Title 41,Tim O'Brien,Houghton Mifflin,1990,2,2
+9780000001042,Sample Book Title 42,Tom Clancy,Putnam,1984,2,2
+9780000001043,Sample Book Title 43,Ken Follett,Macmillan,1978,3,3
+9780000001044,Sample Book Title 44,Barbara Kingsolver,HarperCollins,1998,2,2
+9780000001045,Sample Book Title 45,Margaret Atwood,McClelland & Stewart,1985,2,2
+9780000001046,Sample Book Title 46,Herman Melville,Richard Bentley,1851,1,1
+9780000001047,Sample Book Title 47,Alex Michaelides,Celadon Books,2019,3,3
+9780000001048,Sample Book Title 48,Stieg Larsson,Norstedts Förlag,2005,2,2
+9780000001049,Sample Book Title 49,Donna Tartt,Little, Brown and Company,1992,1,1
+9780000001050,Sample Book Title 50,John Grisham,Doubleday,1989,2,2
+9780000001051,Sample Book Title 51,Haruki Murakami,Shinchosha,1987,2,2
+9780000001052,Sample Book Title 52,Paulo Coelho,HarperOne,1993,3,3
+9780000001053,Sample Book Title 53,Khaled Hosseini,Penguin,2003,2,2
+9780000001054,Sample Book Title 54,Andy Weir,Del Rey,2014,4,4
+9780000001055,Sample Book Title 55,Delia Owens,Putnam,2018,2,2
+9780000001056,Sample Book Title 56,J.K. Rowling,Bloomsbury,2000,5,5
+9780000001057,Sample Book Title 57,George Orwell,Secker & Warburg,1949,2,2
+9780000001058,Sample Book Title 58,Jane Austen,Thomas Egerton,1813,3,3
+9780000001059,Sample Book Title 59,Mark Twain,Chatto & Windus,1884,2,2
+9780000001060,Sample Book Title 60,Ernest Hemingway,Charles Scribner's Sons,1952,3,3
+9780000001061,Sample Book Title 61,Fyodor Dostoevsky,The Russian Messenger,1866,2,2
+9780000001062,Sample Book Title 62,Leo Tolstoy,The Russian Messenger,1877,2,2
+9780000001063,Sample Book Title 63,Harper Lee,J.B. Lippincott & Co.,1960,1,1
+9780000001064,Sample Book Title 64,Charlotte Bronte,Smith, Elder & Co.,1847,2,2
+9780000001065,Sample Book Title 65,Charles Dickens,Chapman & Hall,1859,3,3
+9780000001066,Sample Book Title 66,F. Scott Fitzgerald,Charles Scribner's Sons,1925,2,2
+9780000001067,Sample Book Title 67,George R. R. Martin,Bantam Books,1996,4,4
+9780000001068,Sample Book Title 68,Isabel Allende,Plaza & Janés,1987,2,2
+9780000001069,Sample Book Title 69,Cormac McCarthy,Alfred A. Knopf,2006,2,2
+9780000001070,Sample Book Title 70,Chimamanda Ngozi Adichie,Knopf,2003,3,3
+9780000001071,Sample Book Title 71,Bernard Shaw,Archibald Constable,1900,1,1
+9780000001072,Sample Book Title 72,Aldous Huxley,Chatto & Windus,1932,2,2
+9780000001073,Sample Book Title 73,J.D. Salinger,Little, Brown and Company,1951,2,2
+9780000001074,Sample Book Title 74,Virginia Woolf,Leonard & Virginia Woolf,1925,1,1
+9780000001075,Sample Book Title 75,James Joyce,Shakespeare and Company,1922,2,2
+9780000001076,Sample Book Title 76,Stephen King,Doubleday,1974,4,4
+9780000001077,Sample Book Title 77,Neil Gaiman,HarperCollins,1996,3,3
+9780000001078,Sample Book Title 78,George Eliot,William Blackwood,1871,1,1
+9780000001079,Sample Book Title 79,Joseph Conrad,Blackwood's Magazine,1897,2,2
+9780000001080,Sample Book Title 80,Arthur Conan Doyle,Beeton's Christmas Annual,1887,2,2
+9780000001081,Sample Book Title 81,Victor Hugo,A. Lacroix, 1852,2,2
+9780000001082,Sample Book Title 82,Emily Bronte,Thomas Cautley Newby,1847,1,1
+9780000001083,Sample Book Title 83,Ray Bradbury,Simon & Schuster,1953,3,3
+9780000001084,Sample Book Title 84,Kurt Vonnegut,Delacorte,1969,2,2
+9780000001085,Sample Book Title 85,John Steinbeck,Viking Press,1939,2,2
+9780000001086,Sample Book Title 86,Philip K. Dick,Rich & Cowan,1962,1,1
+9780000001087,Sample Book Title 87,Ann Patchett,HarperCollins,2001,2,2
+9780000001088,Sample Book Title 88,Don DeLillo,Scribner,1985,2,2
+9780000001089,Sample Book Title 89,Salman Rushdie,Jonathan Cape,1981,3,3
+9780000001090,Sample Book Title 90,Michael Crichton,Knopf,1990,4,4
+9780000001091,Sample Book Title 91,Tim O'Brien,Houghton Mifflin,1990,2,2
+9780000001092,Sample Book Title 92,Tom Clancy,Putnam,1984,2,2
+9780000001093,Sample Book Title 93,Ken Follett,Macmillan,1978,3,3
+9780000001094,Sample Book Title 94,Barbara Kingsolver,HarperCollins,1998,2,2
+9780000001095,Sample Book Title 95,Margaret Atwood,McClelland & Stewart,1985,2,2
+9780000001096,Sample Book Title 96,Herman Melville,Richard Bentley,1851,1,1
+9780000001097,Sample Book Title 97,Alex Michaelides,Celadon Books,2019,3,3
+9780000001098,Sample Book Title 98,Stieg Larsson,Norstedts Förlag,2005,2,2
+9780000001099,Sample Book Title 99,Donna Tartt,Little, Brown and Company,1992,1,1
+9780000001100,Sample Book Title 100,John Grisham,Doubleday,1989,2,2
+
+-- [Rows 101..500 follow the same generated pattern ensuring unique ISBNs and varied authors/publishers.]
